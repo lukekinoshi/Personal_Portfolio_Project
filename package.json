@@ -1,0 +1,23 @@
+{
+  "name": "personal_portfolio_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd backend && npm i && npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukekinoshi/Personal_Portfolio_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukekinoshi/Personal_Portfolio_Project/issues"
+  },
+  "homepage": "https://github.com/lukekinoshi/Personal_Portfolio_Project#readme"
+}
